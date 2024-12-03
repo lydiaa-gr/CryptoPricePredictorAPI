@@ -1,9 +1,0 @@
-﻿################################################################################
-# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
-################################################################################
-
-/CryptoPricePredictorAPI/bin/Debug/net8.0
-/.vs/CryptoPricePredictorAPI/v17
-/.vs/CryptoPricePredictorAPI/FileContentIndex
-/.vs/CryptoPricePredictorAPI/DesignTimeBuild
-/.vs/CryptoPricePredictorAPI/CopilotIndices/0.2.1657.32929
