@@ -1,6 +1,0 @@
-@CryptoPricePredictorAPI_HostAddress = http://localhost:5234
-
-GET {{CryptoPricePredictorAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
